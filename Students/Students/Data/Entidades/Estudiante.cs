@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Students.Data.Entidades
 {
-    public class Estudiantes
+    public class Estudiante
     {
         public int IdEstudiante { get; set; }
         public string NombreEstudiante { get; set; }
